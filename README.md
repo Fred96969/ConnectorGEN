@@ -1,6 +1,5 @@
 # ConnectorGEN
 Structural connection components
-<!---
 
 
 ![项目截图](5.jpg)
@@ -23,4 +22,4 @@ https://drive.google.com/drive/folders/1_PG9hjwNymqj46U8dVkDeaw7xVCZCKE0?usp=dri
 https://drive.google.com/drive/folders/1_PG9hjwNymqj46U8dVkDeaw7xVCZCKE0?usp=sharing
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyistyler&" alt="tyistyler" /></p>
--->
+
