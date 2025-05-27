@@ -42,12 +42,12 @@ The dataset is one of the core resources of the project, and the enhanced versio
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyistyler&" alt="tyistyler" /></p>
 
 Detailed Hardware Configuration Specifications:
-![项目截图](9.jpg)
+![项目截图](Hardware Configuration.jpg)
 
 
 Pre-Experimental Program 
 We designed several sets of pre-experiments to evaluate each of the following combinations of generator and discriminator learning rates. Comparisons were conducted to analyze the stability of the loss curves during training and the quality of the final generated samples：
-![项目截图](9.jpg)
+![项目截图](LR.jpg)
 Scheme 1: The generator loss tends to stabilize and is slightly higher than the discriminator loss, indicating that the quality of the generated samples is high and that the discriminator is able to provide sufficient feedback. The entire training process remains stable.
 Scheme 2: There are slight fluctuations in the losses of both the generator and discriminator during the stabilization process.
 Scheme 3: The initial generation is more effective; however, there are significant fluctuations in the generator's loss during the later stages. This indicates that the higher learning rate for the generator results in oscillations.
